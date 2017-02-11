@@ -12,7 +12,8 @@ namespace ConsoleApplication
         {
             // Console.WriteLine("Hello World!");
             // Solution1 ();
-            Solution2 ();
+            // Solution2 ();
+            Solution3 ();
             
         }
 
@@ -72,6 +73,33 @@ namespace ConsoleApplication
             result = true;
 
             End:     
+            Console.Write (result);
+        }
+
+        /*
+        solution 3:
+        - the most awesome solution
+        - loop through all character in inputString
+        - compare the index of the first and the last character in inputString
+        - if it is same index continue
+        - else there two identical characters at difference indices
+        */
+        public static void Solution3 () {
+            var result = false;
+
+            Console.Write ("Input the string: ");            
+            string inputString = Console.ReadLine ();
+
+            foreach (var c in inputString)
+            {
+                if (inputString.IndexOf(c) != inputString.LastIndexOf(c)) {
+                    result = false;
+                    goto End;
+                }
+            }
+            result = true;
+           
+            End:
             Console.Write (result);
         }
 
