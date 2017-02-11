@@ -7,8 +7,8 @@
 -debug:portable
 -nostdlib
 -nologo
-"c:\Users\fdj\Git\csharp-interview\array-n-string\is-unique\obj\Debug\netcoreapp1.0\dotnet-compile.assemblyinfo.cs"
--out:"c:\Users\fdj\Git\csharp-interview\array-n-string\is-unique\bin\Debug\netcoreapp1.0\is-unique.dll"
+"C:\Users\fdj\Git\csharp-interview\array-n-string\check-permutation\obj\Debug\netcoreapp1.0\dotnet-compile.assemblyinfo.cs"
+-out:"C:\Users\fdj\Git\csharp-interview\array-n-string\check-permutation\bin\Debug\netcoreapp1.0\check-permutation.dll"
 -r:"C:\Users\fdj\.nuget\packages\Microsoft.CSharp\4.0.1\ref\netstandard1.0\Microsoft.CSharp.dll"
 -r:"C:\Users\fdj\.nuget\packages\Microsoft.VisualBasic\10.0.1\ref\netstandard1.1\Microsoft.VisualBasic.dll"
 -r:"C:\Users\fdj\.nuget\packages\Microsoft.Win32.Primitives\4.0.1\ref\netstandard1.3\Microsoft.Win32.Primitives.dll"
@@ -82,4 +82,4 @@
 -r:"C:\Users\fdj\.nuget\packages\System.Threading.Timer\4.0.1\ref\netstandard1.2\System.Threading.Timer.dll"
 -r:"C:\Users\fdj\.nuget\packages\System.Xml.ReaderWriter\4.0.11\ref\netstandard1.3\System.Xml.ReaderWriter.dll"
 -r:"C:\Users\fdj\.nuget\packages\System.Xml.XDocument\4.0.11\ref\netstandard1.3\System.Xml.XDocument.dll"
-"c:\Users\fdj\Git\csharp-interview\array-n-string\is-unique\Program.cs"
+"C:\Users\fdj\Git\csharp-interview\array-n-string\check-permutation\Program.cs"

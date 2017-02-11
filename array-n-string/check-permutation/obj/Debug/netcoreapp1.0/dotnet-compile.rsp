@@ -1,5 +1,5 @@
---temp-output:c:\Users\fdj\Git\csharp-interview\array-n-string\is-unique\obj\Debug\netcoreapp1.0\
---out:c:\Users\fdj\Git\csharp-interview\array-n-string\is-unique\bin\Debug\netcoreapp1.0\is-unique.dll
+--temp-output:C:\Users\fdj\Git\csharp-interview\array-n-string\check-permutation\obj\Debug\netcoreapp1.0\
+--out:C:\Users\fdj\Git\csharp-interview\array-n-string\check-permutation\bin\Debug\netcoreapp1.0\check-permutation.dll
 --define:DEBUG
 --define:TRACE
 --define:NETCOREAPP1_0
@@ -9,7 +9,7 @@
 --optimize:False
 --debug-type:portable
 --emit-entry-point:True
---output-name:is-unique
+--output-name:check-permutation
 --file-version:1.0.0.0
 --version:1.0.0.0
 --informational-version:1.0.0
@@ -87,4 +87,4 @@
 --reference:C:\Users\fdj\.nuget\packages\System.Threading.Timer\4.0.1\ref\netstandard1.2\System.Threading.Timer.dll
 --reference:C:\Users\fdj\.nuget\packages\System.Xml.ReaderWriter\4.0.11\ref\netstandard1.3\System.Xml.ReaderWriter.dll
 --reference:C:\Users\fdj\.nuget\packages\System.Xml.XDocument\4.0.11\ref\netstandard1.3\System.Xml.XDocument.dll
-c:\Users\fdj\Git\csharp-interview\array-n-string\is-unique\Program.cs
+C:\Users\fdj\Git\csharp-interview\array-n-string\check-permutation\Program.cs
